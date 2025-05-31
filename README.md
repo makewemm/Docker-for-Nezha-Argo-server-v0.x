@@ -24,7 +24,9 @@ F大原版简单修改，参数一致,可以直接把镜像替换成这个，已
 ```
 daxia2023/node-nezser:latest
 ```
-
+```
+ghcr.io/makewemm/nezser:latest
+```
 
 F大原版地址:https://github.com/fscarmen2/Argo-Nezha-Service-Container.git
  
