@@ -22,7 +22,7 @@ F大原版简单修改，参数一致,可以直接把镜像替换成这个，已
 
 #### docker镜像(默认面板端口80):
 ```
-daxia2023/node-nezser:latest
+daxia2023/nezser:latest
 ```
 ```
 ghcr.io/makewemm/nezser:latest
